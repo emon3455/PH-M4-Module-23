@@ -6,7 +6,7 @@ function summation(num1 , num2){
         console.log("Please enter an number");
         return;
     }
-    
+
     return num1 + num2;
 
 }
