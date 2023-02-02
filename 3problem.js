@@ -1,3 +1,4 @@
+// find the cheepest price from the given array of objects:
 const phones =[
 
     {name: " I-Phone ",Price: 120000,color:"black"},
